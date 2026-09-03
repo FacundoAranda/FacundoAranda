@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/Q3W0WNn2/Portada-Linkedin-con-leon.png)](https://www.linkedin.com/in/facundo-aranda-joaquin/)
+[![Header](https://i.ibb.co/mVckGHFG/Portada-para-Linkedin-con-leon-pro.png)](https://www.linkedin.com/in/facundo-aranda-joaquin/)
 
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/facundo-aranda-joaquin/)
